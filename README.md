@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moaz666666@outlook.com**
 
-- ⚡ Fun fact **I think i'm funny and very halpful**
+- ⚡ Fun fact **I think I'm funny and very helpful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
