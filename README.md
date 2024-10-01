@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **backend => node.js**
 
-- 💬 Ask me about **React.js , Tailwind , Bootstrap , Next,js , SASS , ES6 ,**
+- 💬 Ask me about **React.js , Next,js , Tailwind , Bootstrap , SASS , ES6 ,**
 
 - 📫 How to reach me **moaz666666@outlook.com**
 
