@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBkODZxdmI0NjRybzNteWJtYmw2MndwcXphN251YjZ4eWxwNW56NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://moui666666.io)
+[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://moui666666.io)
 <h1 align="center">Hi 👋, I'm Moaz Ryhan</h1>
 <h3 align="center">A passionate MERN stack developer from Egypt with expertise in building scalable and dynamic web applications. I have strong skills in both Frontend and Backend development, with proficiency in React.js, Next.js, Node.js, Express.js, and MongoDB. While I have experience in both areas, I prefer working in a Backend position where I can focus on building robust APIs, managing databases, and optimizing server-side performance. I am looking for an opportunity to contribute my skills to a dynamic team and work on innovative projects. </h3>
 <img align="right"  alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
