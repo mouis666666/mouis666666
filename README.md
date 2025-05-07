@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moazryhan@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny and very helpful**
+- ⚡ fact **I think I'm good with self-learning, very helpful**
 
 <h3 align="left">Connect with me:</h3>
 <hr><p><span style="margin-right: 30px;"></span><a href="www.linkedin.com/in/moaz-ryhan-283577278"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/mouis666666"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
