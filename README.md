@@ -10,6 +10,8 @@
 - 💬 Ask me about ** Node.js, Nest.js, Express.js, MySQL, MongoDB, mongoose, React.js, Next.js, Tailwind, Bootstrap, SASS, ES6,**
 
 - 📫 How to reach me **moazryhan@gmail.com**
+  
+- 🙌 see my work  <a href="https://moazryhan.github.io/MyPortfolio-1/" target="_blank" rel="noreferrer"> click me </a> 
 
 - ⚡ fact **I think I'm good with self-learning, very helpful**
 
